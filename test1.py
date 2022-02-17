@@ -1,5 +1,5 @@
 """
-Giving the following string
+Giving the following string by team international
 sample = "aaabbbccbacdeb"
 
 Print the 3 most common characters along with their occurrence count each on a separate line.
